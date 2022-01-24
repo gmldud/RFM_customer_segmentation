@@ -1,8 +1,8 @@
 ## Customer segmentation 고객분류
-Pakistan's Largest E-Commerce Dataset(from kaggle)을 이용한 고객 세그멘테이션
+Pakistan's Largest E-Commerce Dataset(from kaggle)을 이용한 고객 분류를 통하여 마케팅 전략을 수립합니다.
 
 ## 분석 목적
-E-commerce 고객에 대한 인사이트를 도출해냄에 있어서 참고 자료로 사용하기 위해 만들어졌습니다.
+E-commerce 고객 정보를 사용하여 고객 분류를 시도하며, 각 고객 특성에 맞는 마케팅 전략 수립을 위해 분석되었습니다.
 
 ## 목차
 1. 캐글 API로 연동
